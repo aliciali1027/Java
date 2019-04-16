@@ -9,3 +9,6 @@ Java Dev Journal -Spring Interview Questions
 ====
 https://www.javadevjournal.com/interview-questions/
 
+【面试】Spring事务面试考点吐血整理（建议珍藏）
+====
+https://my.oschina.net/u/3990817/blog/3036999
