@@ -20,3 +20,7 @@ https://www.mkyong.com/
 Java 技术新手入门
 ====
 https://www.ibm.com/developerworks/cn/java/newto/tutorials.html
+
+Java Blogs
+====
+https://mrbird.cc/
