@@ -29,3 +29,10 @@ Java Projects
 ====
 https://tycoding.cn/
 
+Java基础知识点回顾
+====
+https://tycoding.cn/2019/06/24/ready/javase/
+
+Tumo Blog
+====
+https://github.com/TyCoding/tumo/
