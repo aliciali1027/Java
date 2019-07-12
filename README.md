@@ -5,6 +5,10 @@ Java Core Knowledge
 ====
 http://www.6ems.com/tags/Java/page/5/
 
+Java - How2J.com
+====
+http://how2j.cn/stage/39.html
+
 Java Dev Journal -Spring Interview Questions
 ====
 https://www.javadevjournal.com/interview-questions/
