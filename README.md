@@ -16,3 +16,7 @@ https://my.oschina.net/u/3990817/blog/3036999
 Java Q&A
 ====
 https://www.mkyong.com/
+
+Java 技术新手入门
+====
+https://www.ibm.com/developerworks/cn/java/newto/tutorials.html
