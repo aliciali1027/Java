@@ -40,3 +40,8 @@ https://tycoding.cn/2019/06/24/ready/javase/
 Tumo Blog
 ====
 https://github.com/TyCoding/tumo/
+
+Java 面试题基础
+====
+https://www.cnblogs.com/nyatom/p/10511906.html
+
