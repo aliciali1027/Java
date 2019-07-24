@@ -48,3 +48,7 @@ https://www.cnblogs.com/nyatom/p/10511906.html
 Java-interview
 ====
 https://crossoverjie.top/JCSprout/#/collections/ArrayList
+
+Developer Interview Tips
+====
+https://time.geekbang.org/column/article/86821
