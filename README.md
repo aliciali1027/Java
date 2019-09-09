@@ -52,3 +52,14 @@ https://crossoverjie.top/JCSprout/#/collections/ArrayList
 Developer Interview Tips
 ====
 https://time.geekbang.org/column/article/86821
+
+Java LinkedList
+====
+Java集合之LinkedList常见实例操作，实例说明
+https://blog.51cto.com/10836356/2151586
+
+Java Collection
+====
+Java中 Map、Set、List的基本用法
+https://blog.csdn.net/ling913/article/details/25785467
+
